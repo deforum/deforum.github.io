@@ -93,6 +93,8 @@ nav a:hover {opacity: 1; transition: opacity 1s;}
   position: relative;
 }
 
+#quick-links a {text-decoration: none;}
+
 #quick-links p {
   margin: 50px 0 10px 0;
 }
@@ -138,7 +140,7 @@ nav a:hover {opacity: 1; transition: opacity 1s;}
   transform: scale(1,1);
 }
 
-.quick-btn a {text-decoration: none;}
+
 
 .notebook {
   float:  left;
