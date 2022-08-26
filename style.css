@@ -138,6 +138,8 @@ nav a:hover {opacity: 1; transition: opacity 1s;}
   transform: scale(1,1);
 }
 
+.quick-btn a {text-decoration: none;}
+
 .notebook {
   float:  left;
 }
