@@ -156,7 +156,7 @@ nav a:hover {opacity: 1; transition: opacity 1s;}
 
 /* Sections */
 section {
-  width:  40%;
+  width:  60%;
   margin:  0 auto 50px auto;
 }
 
@@ -186,10 +186,6 @@ canvas {
   99% {opacity: 0;width: 100vw;height: 100vh;}
   100% {opacity: 0; width: 1px; height: 1px; top: -1; left: -1;}
   }
-}/*
-@-webkit-keyframes bounce {
-   0% {opacity: 1;}
-  100% {opacity: 0;}
 }
 
 
@@ -197,7 +193,9 @@ canvas {
 
 
 @media only screen and (min-width:768px) {
-
+section {
+  width:  40%;
+}
 }
 
 
