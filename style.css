@@ -162,7 +162,7 @@ section {
   margin:  0 auto 50px auto;
 }
 
-section#about {
+section#about, section#resources {
   padding: 0 0 50px 0;
   border-bottom: 1px dotted rgba(255,255,255,0.3);
 }
