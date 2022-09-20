@@ -65,7 +65,7 @@ h1, h2, h3 {
 header {
   margin: 0;
   width:  100%;
-  height:  100vh;
+  height:  100%;
 }
 
 nav {
@@ -197,6 +197,12 @@ canvas {
 @media only screen and (min-width:768px) {
 section {
   width:  40%;
+}
+
+header {
+  margin: 0;
+  width:  100%;
+  height:  100vh;
 }
 }
 
