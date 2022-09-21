@@ -12,6 +12,28 @@ body {
   font-family: 'Roboto Mono', monospace;
   font-size:  120%;
   color:  #FFF;
+  background-image: 
+    repeating-radial-gradient(
+      circle at 89% 28%,
+      hsla(303.33, 47.37%, 14.9%, 0.7549864653551353) 5%,
+      hsla(139.09, 53.66%, 16.08%, 0.1858348361119515) 99%
+    ),
+    repeating-radial-gradient(
+      circle at 26% 38%,
+      hsla(166.78, 31.89%, 63.73%, 0.8069924273481652) 14%,
+      hsla(14.22, 97.74%, 65.29%, 0.47876422092105564) 69%
+    ),
+    conic-gradient(
+      from 117deg at 54% 11%,
+      hsla(302.71, 63.03%, 58.63%, 0.4340801752707284) 11%,
+      hsla(222.3, 58.16%, 46.86%, 0.15545325842719904) 20%
+    ),
+    radial-gradient(
+      ellipse at 29% 45%,
+      hsla(233.57, 13.21%, 41.57%, 0.43972461500154036) 46%,
+      hsla(224.11, 69.59%, 57.45%, 0.377292580981355) 94%
+    ),
+    repeating-radial-gradient(circle at 42% 32%, #d14721 7%, #fd7950 92%);
   background-position:  fixed;
 }
 
@@ -172,35 +194,6 @@ canvas {
   }
 }
 
-
-@media (prefers-color-scheme: light) {
-body {
-  /* background-color:  rgb(255, 238, 238); */
-  background-image: 
-    repeating-radial-gradient(
-      circle at 89% 28%,
-      hsla(303.33, 47.37%, 14.9%, 0.7549864653551353) 5%,
-      hsla(139.09, 53.66%, 16.08%, 0.1858348361119515) 99%
-    ),
-    repeating-radial-gradient(
-      circle at 26% 38%,
-      hsla(166.78, 31.89%, 63.73%, 0.8069924273481652) 14%,
-      hsla(14.22, 97.74%, 65.29%, 0.47876422092105564) 69%
-    ),
-    conic-gradient(
-      from 117deg at 54% 11%,
-      hsla(302.71, 63.03%, 58.63%, 0.4340801752707284) 11%,
-      hsla(222.3, 58.16%, 46.86%, 0.15545325842719904) 20%
-    ),
-    radial-gradient(
-      ellipse at 29% 45%,
-      hsla(233.57, 13.21%, 41.57%, 0.43972461500154036) 46%,
-      hsla(224.11, 69.59%, 57.45%, 0.377292580981355) 94%
-    ),
-    repeating-radial-gradient(circle at 42% 32%, #d14721 7%, #fd7950 92%);
-
-  }
-}
 
 @media (prefers-color-scheme: dark) {
 body {
