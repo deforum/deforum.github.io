@@ -194,10 +194,14 @@ canvas {
   }
 }
 
+@media (prefers-color-scheme: light) {
+
+}
+
 
 @media (prefers-color-scheme: dark) {
 body {
-  /* background-color:  rgb(255, 238, 238); */
+  color:  #FFF;
   background-image: 
     repeating-radial-gradient(
       circle at 89% 28%,
@@ -220,7 +224,7 @@ body {
       hsla(224.11, 69.59%, 1%, 0.377292580981355) 94%
     ),
     repeating-radial-gradient(circle at 42% 32%, #d14721 7%, #fd7950 92%);
-
+  background-position:  fixed;
   }
 }
 
