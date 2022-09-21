@@ -61,7 +61,7 @@ nav a {opacity: 0.75; font-weight: 700; text-decoration:none; transition: opacit
 nav a:hover {opacity: 1; transition: opacity 1s;}
 
 #splash {
-  padding: 20% 5px 15% 5px;
+  padding: 20% 0 15% 0;
 }
 
 #logo {
@@ -87,7 +87,7 @@ nav a:hover {opacity: 1; transition: opacity 1s;}
   color: #FFF;
   transition: all 0.5s;
   position: relative;
-  width:  145px;
+  width:  150px;
   text-align:  center;
   padding:  10px 15px;
 }
@@ -245,10 +245,6 @@ header {
 
 #splash {
   padding: 15% 0 15% 0;
-}
-
-.quick-btn {
-  width:  150px;
 }
 
 }
