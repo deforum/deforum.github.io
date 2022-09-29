@@ -1,0 +1,270 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>deforum</title>
+<meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, maximum-scale=1.0">
+<meta name="title" content="deforum">
+<meta name="description" content="Home of the deforum stable diffusion notebook">
+<meta name="keywords" content="art, ai, ai art, machine learning, artwork, notebook, python">
+<meta property="og:title" content="deforum">
+<meta property="og:image" content="img/ico.png">
+<meta property="og:description" content="Home of the deforum stable diffusion notebook">
+<link href="style.css" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;500&display=swap" rel="stylesheet">
+<script src="https://kit.fontawesome.com/0db45a5e9b.js" crossorigin="anonymous"></script>
+<script src="scripts.js"></script>
+<link rel="apple-touch-icon" sizes="180x180" href="img/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="img/favicon-16x16.png">
+<link rel="manifest" href="img/site.webmanifest">
+<link rel="mask-icon" href="img/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="img/favicon.ico">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-config" content="img/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+</head>
+<body class="animation">
+<header>
+<nav><a href="index.html#about">about</a> <a href="index.html#resources">resources</a></nav>
+<div id="splash">
+    <div id="logo">d̷̨̗͎̲̟̤̀͆̿͒͆̈́̕e̵̦̓̍̉́̆͂f̵̨͖͙͉͇͊͑͠o̶̹̤͉̼̹͍͇͋̈́r̴̖̾̂͌̆ū̶̳̟͈͕͌̎͑̒͐̏͜m̶̻̭͎͇͔͎̜͐͒̈̓̽</div>
+    <div id="intro">Animation Parameter Examples</div>
+</div>
+</header>
+<section id="3d">
+  <h2 class="title">3d animation</h2>
+    <p>Animations with the 3D settings will attempt to generate frames with depth, as the canvas moves according to the 3D specific parameters. </p>
+    <h3>Translation_X</h3>
+    <p>Moves the canvas left or right. This parameter uses positive values to move <strong>right</strong> and negative values to move <strong>left</strong>.</p>
+    <div class="video-wrapper clear"> 
+      <div class="video-left">
+       <video width="320" height="320" controls>
+       <source src="mov/3D/3D_Tran_X.mp4" type="video/mp4">
+       Your browser does not support the video tag.
+       </video>
+       <br />
+       <span class="small-text">Positive</span>
+      </div>
+
+     <div class="video-right">
+      <video width="320" height="320" controls>
+      <source src="mov/3D/3D_Negative_Tran_X.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+      </video>
+      <br />
+      <span class="small-text">Negative</span>
+      </div>
+    </div>
+
+    <h3>Translation_Y</h3>
+    <p>Moves the canvas up or down. This parameter uses positive values to move <strong>up</strong> and negative values to move <strong>down</strong>.</p>
+    <div class="video-wrapper clear"> 
+      <div class="video-left">
+       <video width="320" height="320" controls>
+       <source src="mov/3D/3D_Tran_Y.mp4" type="video/mp4">
+       Your browser does not support the video tag.
+       </video>
+       <br />
+       <span class="small-text">Positive</span>
+      </div>
+
+     <div class="video-right">
+      <video width="320" height="320" controls>
+      <source src="mov/3D/3D_Negative_Tran_Y.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+      </video>
+      <br />
+      <span class="small-text">Negative</span>
+      </div>
+    </div>
+
+    <h3>Translation_Z</h3>
+    <p>Moves the canvas towards or away from view. This parameter uses positive values to move <strong>forwards</strong> and negative values to move <strong>backwards</strong>.
+   </p>
+    <div class="video-wrapper clear"> 
+      <div class="video-left">
+       <video width="320" height="320" controls>
+       <source src="mov/3D/3D_Zoom.mp4" type="video/mp4">
+       Your browser does not support the video tag.
+       </video>
+       <br />
+       <span class="small-text">Positive</span>
+      </div>
+
+     <div class="video-right">
+      <video width="320" height="320" controls>
+      <source src="mov/3D/3D_Negative_Zoom.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+      </video>
+      <br />
+      <span class="small-text">Negative</span>
+      </div>
+    </div>
+
+    <h3>Rotation_X</h3>
+    <p>Tilts the canvas up or down in degrees per frame. This parameter uses positive values to tilt <strong>up</strong> and negative values to tilt </strong>down</strong>.</p>
+    <div class="video-wrapper clear"> 
+      <div class="video-left">
+       <video width="320" height="320" controls>
+       <source src="mov/3D/3D_X.mp4" type="video/mp4">
+       Your browser does not support the video tag.
+       </video>
+       <br />
+       <span class="small-text">Positive</span>
+      </div>
+
+     <div class="video-right">
+      <video width="320" height="320" controls>
+      <source src="mov/3D/3D_Negative_X.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+      </video>
+      <br />
+      <span class="small-text">Negative</span>
+      </div>
+    </div>
+
+    <h3>Rotation_Y</h3>
+    <p>Pans the canvas left or right in degrees per frame. This parameter uses positive values to pan <strong>right</strong> and negative values to pan <strong>left</strong>.</p>
+    <div class="video-wrapper clear"> 
+      <div class="video-left">
+       <video width="320" height="320" controls>
+       <source src="mov/3D/3D_Y.mp4" type="video/mp4">
+       Your browser does not support the video tag.
+       </video>
+       <br />
+       <span class="small-text">Positive</span>
+      </div>
+
+     <div class="video-right">
+      <video width="320" height="320" controls>
+      <source src="mov/3D/3D_Negative_Y.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+      </video>
+      <br />
+      <span class="small-text">Negative</span>
+      </div>
+    </div>
+
+    <h3>Rotation_Z</h3>
+    <p>Rolls the canvas clockwise or counterclockwise in degrees per frame. This parameter uses positive values to roll <strong>counterclockwise</strong> and negative values to roll <strong>clockwise</strong>.
+</p>
+    <div class="video-wrapper clear"> 
+      <div class="video-left">
+       <video width="320" height="320" controls>
+       <source src="mov/3D/3D_Z.mp4" type="video/mp4">
+       Your browser does not support the video tag.
+       </video>
+       <br />
+       <span class="small-text">Positive</span>
+      </div>
+
+     <div class="video-right">
+      <video width="320" height="320" controls>
+      <source src="mov/3D/3D_Negative_Z.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+      </video>
+      <br />
+      <span class="small-text">Negative</span>
+      </div>
+    </div>
+</section>
+<section id="2d">
+  <h2 class="title">2d animation</h2>
+    <p>Animations with the 2D settings will attempt to generate frames with movement, as the canvas moves according to the 2D specific parameters.</p>
+
+    <h3>Angle</h3>
+    <p>Rolls the canvas clockwise or counterclockwise in degrees per frame. This parameter uses positive values to roll <strong>counterclockwise</strong> and negative values to roll <strong>clockwise</strong>.</p>
+    <div class="video-wrapper clear"> 
+      <div class="video-left">
+       <video width="320" height="320" controls>
+       <source src="mov/2D/2D_Angle.mp4" type="video/mp4">
+       Your browser does not support the video tag.
+       </video>
+       <br />
+       <span class="small-text">Positive</span>
+      </div>
+
+     <div class="video-right">
+      <video width="320" height="320" controls>
+      <source src="mov/2D/2D_Negative_Angle.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+      </video>
+      <br />
+      <span class="small-text">Negative</span>
+      </div>
+    </div>
+ 
+    <h3>Zoom</h3>
+    <p>Scales the canvas size, multiplicatively. 1 is static, with numbers greater than 1 moving <strong>forwards</strong> and numbers less than 1 moving <strong>backwards</strong>.</p>
+    <div class="video-wrapper clear"> 
+      <div class="video-left">
+       <video width="320" height="320" controls>
+       <source src="mov/2D/2D_Angle.mp4" type="video/mp4">
+       Your browser does not support the video tag.
+       </video>
+       <br />
+       <span class="small-text">Positive</span>
+      </div>
+
+     <div class="video-right">
+      <video width="320" height="320" controls>
+      <source src="mov/2D/2D_Negative_Angle.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+      </video>
+      <br />
+      <span class="small-text">Negative</span>
+      </div>
+    </div>
+
+    <h3>Translation_X</h3>
+    <p>Moves the canvas left or right. This parameter uses positive values to move <strong>right</strong> and negative values to move <strong>left</strong>.</p>
+    <div class="video-wrapper clear"> 
+      <div class="video-left">
+       <video width="320" height="320" controls>
+       <source src="mov/2D/2D_X.mp4" type="video/mp4">
+       Your browser does not support the video tag.
+       </video>
+       <br />
+       <span class="small-text">Positive</span>
+      </div>
+
+     <div class="video-right">
+      <video width="320" height="320" controls>
+      <source src="mov/2D/2D_Negative_X.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+      </video>
+      <br />
+      <span class="small-text">Negative</span>
+      </div>
+    </div>
+
+    <h3>Translation_Y</h3>
+    <p>Moves the canvas up or down. This parameter uses positive values to move <strong>up</strong> and negative values to move <strong>down</strong>.</p>
+    <div class="video-wrapper clear"> 
+      <div class="video-left">
+       <video width="320" height="320" controls>
+       <source src="mov/2D/2D_Y.mp4" type="video/mp4">
+       Your browser does not support the video tag.
+       </video>
+       <br />
+       <span class="small-text">Positive</span>
+      </div>
+
+     <div class="video-right">
+      <video width="320" height="320" controls>
+      <source src="mov/2D/2D_Negative_Y.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+      </video>
+      <br />
+      <span class="small-text">Negative</span>
+      </div>
+    </div>
+</section>
+<footer>
+
+</footer>
+</body></html>
