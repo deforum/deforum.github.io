@@ -184,7 +184,7 @@ nav a:hover {opacity: 1; transition: opacity 1s;}
 
 /* Sections */
 section {
-  width:  60%;
+  width:  85%;
   margin:  0 auto 50px auto;
 }
 
@@ -261,7 +261,7 @@ body {
 
 @media only screen and (min-width:768px) {
 section {
-  width:  40%;
+  width:  50%;
 }
 .video-wrapper {width: 80%; margin:  0 auto;}
 .video-left {float: left;width: 320px; margin: 0 0;}
