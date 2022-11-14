@@ -114,6 +114,10 @@ nav a:hover {opacity: 1; transition: opacity 1s;}
   font-size: 220%;
 }
 
+#challenge-links {
+  padding: 0 10px;
+}
+
 #quick-links {
   width:  375px;
   margin:  0 auto;
@@ -191,6 +195,20 @@ section {
 section#about, section#resources {
   padding: 0 0 50px 0;
   border-bottom: 1px dotted rgba(255,255,255,0.3);
+}
+
+.divider {
+  margin: 25px 0;
+  height: 1px;
+  background: #FFF;
+  opacity: 0.1;
+}
+
+.divider-full {
+  margin: 25px 10px;
+  height: 1px;
+  background: #FFF;
+  opacity: 0.1;
 }
 
 /* Animation */
@@ -276,6 +294,12 @@ header {
 #splash {
   padding: 15% 0 15% 0;
 }
+
+#challenge-links {
+  width: 20%;
+  margin: 15px auto;
+}
+
 
 }
 
