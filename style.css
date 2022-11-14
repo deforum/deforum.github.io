@@ -57,6 +57,11 @@ body {
     *zoom:1;
 }
 
+img {
+  max-width: 100%;
+  height: auto;
+}
+
 
 h1, h2, h3 {
   weight:  500;
