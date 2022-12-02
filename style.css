@@ -179,15 +179,15 @@ nav a:hover {opacity: 1; transition: opacity 1s;}
 
 
 
-.notebook {
+.notebook, .discord {
   float:  left;
 }
 
-.github {
+.github, .twitter {
   float:  right;
 }
 
-.discord, .patreon {
+ .patreon {
   margin: 0 auto;
 }
 
