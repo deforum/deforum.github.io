@@ -1,0 +1,47 @@
+/* Animation section */
+.animation-section {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.animation-grid {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    flex-wrap: wrap;  /* Allows items to wrap onto the next line */
+}
+
+.animation-item {
+    width: 43%; 
+    background-color: #141414;
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid #3a3f47;
+    margin-bottom: 20px;  /* Add a margin to the bottom */
+    box-shadow: 0 2px 10px rgba(0,0,0,0.5);
+}
+
+@media (max-width: 768px) {
+    .animation-item {
+        width: 100%; /* Takes the full width */
+        margin-right: 0; /* Resets the margin */
+        margin-bottom: 30px; /* Space between stacked boxes */
+    }
+}
+
+.animation-item img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.animation-item h3 {
+    font-size: 1.5em;
+    color: #7d8590; 
+    margin-top: 20px;
+}
+
+.animation-item p {
+    font-size: 1.2em;
+    line-height: 1.5;
+    color: white;
+}

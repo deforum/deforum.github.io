@@ -1,0 +1,67 @@
+ /* Base styles */
+body, ul, p {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #141414;
+    color: #b9c3d0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+a {
+    color: #4a92fa;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+a:hover {
+    color: #2e81f7;
+    text-decoration: underline;
+}
+
+.container {
+    max-width: 2400px;
+    margin: 0 auto;
+    padding: 40px;
+    flex: 1;
+    box-sizing: border-box;
+}
+
+/* Media query for smaller screens */
+@media (max-width: 768px) {
+    .container {
+        width: 100%;
+    }
+
+}
+
+h2 {
+    font-size: 1.8em;
+    text-align: center;
+}
+
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+
+h1 {
+    font-size: 2.0em;
+    color: #b9c3d0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+/* Add this to your styles/base.css or any other suitable CSS file */
+canvas#animatedBackground {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}

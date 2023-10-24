@@ -1,0 +1,29 @@
+/* Banner Message */
+.banner-message {
+    background-color: #21262d ; /* Adjust as needed */
+    color: #28c065;
+    text-align: center;
+    padding: 10px 0;
+    font-weight: 500;
+    position: sticky;
+    z-index: 100; /* to ensure the banner appears above other elements */
+    width: 100%;
+}
+
+.banner-message a {
+    color: #4a92fa; /* Adjust to desired link color, like a gold for emphasis */
+    text-decoration: none;
+    font-weight: 600;
+    margin: 0 5px; /* Spacing around the link for aesthetics */
+}
+
+.banner-message a:hover {
+    text-decoration: underline;
+    color: #2e81f7;
+}
+
+.sticky-container {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
