@@ -100,7 +100,7 @@ Alien, Film Noir, HDR, Long Exposure, Neon Noir, Silhouette, Tilt-Shift.
 - [Evolve-Glitch](https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Evolve-Glitch.mp4)
 - [Evolve-Glitch-2](https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Evolve-Glitch-2.mp4) <span style="color:orange;">**NEW!**</span>
 - [Evolve-Pulse](https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Evolve-Pulse.mp4)
-- Evolve-Pulse-2  <span style="color:orange;">**NEW!**</span>
+- [Evolve-Pulse-2](https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Evolve-Pulse-2.mp4)  <span style="color:orange;">**NEW!**</span>
 - [Evolve-Pulse-Glitch](https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Evolve-Pulse-Glitch.mp4)  <span style="color:orange;">**NEW!**</span>
 - [Evolve-Portal](https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Evolve-Portal.mp4) <span style="color:orange;">**NEW!**</span>
 - [Evolve-Slow](https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Evolve_Slow.mp4)
