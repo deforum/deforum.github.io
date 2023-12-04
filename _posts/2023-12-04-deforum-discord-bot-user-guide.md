@@ -93,41 +93,42 @@ Papercut Shadow Box, Stacked Papercut, Thick Layered Papercut,
 Alien, Film Noir, HDR, Long Exposure, Neon Noir, Silhouette, Tilt-Shift.
 
 ## Motion Presets
-- Classic-Zoom-In
-- Classic-Zoom-Out
-- Classic
-- Evolve-Fast
-- Evolve-Glitch
-- Evolve-Glitch-2  NEW!
-- Evolve-Pulse-2  NEW!
-- Evolve-Pulse-Glitch  NEW!
-- Evolve-Portal NEW!
-- Evolve-Slow
-- Evolve-Slow-2 NEW!
-- Fly-Through 
-- Fly-Through-2 NEW!
-- Look-Around
-- Move-Around
-- Move-Float NEW!
-- Move-In-Out
-- Move-Warp
-- Move-Warp-2 NEW!
-- Quick-Change NEW!
-- Revolve
-- Scene-Change 
-- Scene-Change-2 NEW!
-- Swipe-Down NEW!
-- X-Move-Down
-- X-Move-Left
-- X-Move-Right
-- X-Move-Up 
-- X-Shapes-Circles
-- X-Shapes-Hexagons
-- X-Shapes-Kaleidoscope
-- X-Shapes-Squares
-- X-Shapes-Stars
-- X-Zoom-In-Out
-- X-Zoom-To-New
+- [Classic-Zoom-In](https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Classic-Zoom-In.mp4)
+- [Classic-Zoom-Out](https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Classic-Zoom-Out.mp4)
+- [Classic](https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Classic.mp4)
+- [Evolve-Fast](https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Evolve-Fast.mp4)
+- [Evolve-Glitch](https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Evolve-Glitch.mp4)
+- [Evolve-Glitch-2](https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Evolve-Glitch-2.mp4) <span style="color:orange;">**NEW!**</span>
+- [Evolve-Pulse](https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Evolve-Pulse.mp4)
+- Evolve-Pulse-2  <span style="color:orange;">**NEW!**</span>
+- [Evolve-Pulse-Glitch](https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Evolve-Pulse-Glitch.mp4)  <span style="color:orange;">**NEW!**</span>
+- [Evolve-Portal](https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Evolve-Portal.mp4) <span style="color:orange;">**NEW!**</span>
+- [Evolve-Slow](https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Evolve_Slow.mp4)
+- [Evolve-Slow-2](https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Evolve-Slow-2.mp4) <span style="color:orange;">**NEW!**</span>
+- [Fly-Through](https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Fly-Through.mp4)
+- [Fly-Through-2](https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Fly-Through-2.mp4) <span style="color:orange;">**NEW!**</span>
+- [Look-Around](https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Look-Around.mp4)
+- [Move-Around](https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Move-Around.mp4)
+- [Move-Float](https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Move-Float.mp4) <span style="color:orange;">**NEW!**</span>
+- [Move-In-Out](https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Move-In-Out.mp4)
+- [Move-Warp](https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Move-Warp.mp4)
+- [Move-Warp-2](https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Move-Warp-2.mp4) <span style="color:orange;">**NEW!**</span>
+- [Quick-Change](https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Quick-Change.mp4) <span style="color:orange;">**NEW!**</span>
+- [Revolve](https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Revolve.mp4)
+- [Scene-Change](https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Scene-Change.mp4)
+- [Scene-Change-2](https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Scene-Change-2.mp4) <span style="color:orange;">**NEW!**</span>
+- [Swipe-Down](https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Swipe-Down.mp4) <span style="color:orange;">**NEW!**</span>
+- [X-Move-Down](https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Move-Down.mp4)
+- [X-Move-Left](https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Move_Left.mp4)
+- [X-Move-Right](https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Move-Right.mp4)
+- [X-Move-Up](https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Move-Up.mp4)
+- [X-Shapes-Circles](https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Shapes-Cirlcles.mp4)
+- [X-Shapes-Hexagons](https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Shapes-Hexagons.mp4)
+- [X-Shapes-Kaleidoscope](https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Shapes-Kaleidoscope.mp4)
+- [X-Shapes-Squares](https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Shapes-Squares.mp4)
+- [X-Shapes-Stars](https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Shapes-Stars.mp4)
+- [X-Zoom-In-Out](https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Zoom-In-Out.mp4)
+- [X-Zoom-To-New](https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Zoom-To-New.mp4)
 
 To access the Xtra motion presets type X into the motion preset box and a new list will appear to get back to the original list delete the X. 
 
