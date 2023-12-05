@@ -7,10 +7,7 @@ tags: [deforum,animation,bot,guide]
 
 Welcome to the Deforum Wiki! 
 
-We're excited to have you on board to explore and experiment with the capabilities of Deforum. This post will explain how to use our new Discord bot 🤖, a straightforward and user-friendly introduction to Deforum.
-
-> Anyone found to be intentionally creating NSFW content will be removed from the discord server. 
-{: .prompt-danger }
+We're excited to have you on board to explore the capabilities of Deforum. This post will explain how to use our new Discord bot 🤖, a straightforward and user-friendly introduction to Deforum.
 
 <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; overflow: hidden; border-radius: 10px;">
   <video 
@@ -26,7 +23,7 @@ We're excited to have you on board to explore and experiment with the capabiliti
   </video>
 </div>
 
-## Getting Started
+## **Getting Started**
 
 To initiate the AI animation process, use the command `/animate`. After adding your prompt, use the `⇥` (tab) key to navigate to the next box, where a menu will automatically appear. Once you select an option from the menu, the cursor will advance to the next box for your convenience.
 
@@ -38,7 +35,8 @@ To initiate the AI animation process, use the command `/animate`. After adding y
   >
 </div>
 
-## Navigation Instructions
+## **Navigation Instructions**
+
 `/animate` Type this command in the Discord chat to start the animation process.
 
 `prompt` Enter the text or phrase you wish to animate.
@@ -49,11 +47,16 @@ To initiate the AI animation process, use the command `/animate`. After adding y
 
 `aspect_ratio` After selecting the prompt style, the cursor will advance to this box, after choosing a motion preset. A new menu will appear containing the aspect ratio options: Square, Landscape, and Portrait.
 
-This sequence allows precise customization of your AI-generated animations by navigating through each stage seamlessly. The bot's functionality is optimized for creating AI-powered animations based on text prompts. Experiment with different combinations of prompts, styles, motion presets, and aspect ratios for unique animations.
+This sequence allows precise customization of your AI-generated animations by navigating through each stage seamlessly. The bot's functionality is optimized for creating AI-powered animations based on text prompts.
 
+> Experiment with different combinations of prompts, styles, motion presets, and aspect ratios for unique animations.
+{: .prompt-info }
 
-## Confirmation Message
-After submitting your prompt, the bot sends a confirmation message acknowledging the reception of your animation request. A second message will be sent to your DMs when the animation process begins and you’ll see a 'Preview' button appear.
+> Anyone found to be intentionally creating NSFW content will be removed from the discord server. 
+{: .prompt-danger }
+
+## **Confirmation Message**
+After submitting your prompt, the bot sends a confirmation message acknowledging the reception of your animation request. A second message will be sent to your DMs when the animation process begins and you’ll see a `Details` button appear.
 
 <div style="width: 100%; overflow: hidden; border-radius: 10px;">
   <img
@@ -62,9 +65,18 @@ After submitting your prompt, the bot sends a confirmation message acknowledging
     alt="Your Image Description"
   >
 </div>
-## Web App
+
+## **Web App**
 
 Clicking The prieview button redirects you to our dedicated web app designed for a comprehensive overview of the animation's development. The final video will be posted to the discord channel. 
+
+<div style="width: 100%; overflow: hidden; border-radius: 10px;">
+  <img
+    style="width: 100%; height: auto; border-radius: 10px;"
+    src="https://deforum-wiki.s3.us-east-2.amazonaws.com/discord-bot/web-app.png"
+    alt="Your Image Description"
+  >
+</div>
 
 **Progress Overview:** The web app provides an overview of the video's progress, detailing all generation settings. This includes the total wait time, generation time, chosen prompt, prompt style, and selected motion preset.
 
@@ -78,52 +90,38 @@ Clicking The prieview button redirects you to our dedicated web app designed for
 
 By offering a detailed overview of the animation's progression and completion, including the settings used, progress status, and final video preview, the web app ensures an enhanced user experience and facilitates a clear understanding of the animation generation process.
 
-## Prompt Styles
-The available prompt styles are divided into two categories for convenient selection. The initial 25 prompt styles in the menu are:
-- (None)
-- 3D Model
-- Digital Art
-- Enhance
-- Lowpoly
-- Neon Punk
-- Origami
-- Photographic
-- Pixel Art
-- Cubist
-- Graffiti
-- Hyperrealism
-- Pointillism
-- Pop Art
-- Psychedelic
-- Surrealist
-- Dreamscape
-- Dystopian
-- Grunge
-- Horror
-- Stained Glass
-- Tribal
-- Collage
-- Paper Mache
-- Papercut Style
+## **Prompt Styles**
+The available prompt styles are divided into two categories for convenient selection. Visible styles will appear in the discord bot dorp down. Hidden styles will appear as you start typing. Here's the full list of styles:
 
-## Additional Styles
-As you start typing, additional styles become visible. Here's the list:
+| Styles | Hidden Styles | Hidden Styles Cont. | Hidden Styles Cont. 
+|--------|--------|--------|--------|
+|(None)|Analog Film|Retro Game|Long Exposure
+|3D Model|Anime|RPG Fantasy Game|Neon Noir
+|Digital Art|Cinematic|Strategy Game|Silhouette
+|Enhance|Comic Book|Street Fighter|Tilt-Shift
+|Lowpoly|Craft Clay|Legend of Zelda
+|Neon Punk|Fantasy Art|Architectural
+|Origami|Isometric Style|Disco
+|Photographic|Line Art|Fairy Tale
+|Pixel Art|Texture|Gothic
+|Cubist|Advertising|Minimalist
+|Graffiti|Food Photography|Monochrome
+|Hyperrealism|Real Estate|Nautical
+|Pointillism|Abstract|Space
+|Pop Art|Impressionist|Techwear Fashion
+|Psychedelic|Renaissance|Zentangle
+|Surrealist|Steampunk|Flat Papercut
+|Dreamscape|Typography|Kirigami
+|Dystopian|Watercolor|Paper Quilling
+|Grunge|Fighting|Papercut Collage
+|Horror|Fighting Game|Papercut Shadow Box
+|Stained Glass|GTA|Stacked Papercut
+|Tribal|Super Mario|Thick Layered Papercut
+|Collage|Minecraft|Alien
+|Paper Mache|Pokémon|Film Noir
+|Papercut Style|Retro Arcade|HDR
 
-Analog Film, Anime, Cinematic, Comic Book,
-Craft Clay, Fantasy Art, Isometric Style, Line Art, 
-Texture, Advertising, Food Photography, Real Estate, 
-Abstract, Impressionist, Renaissance, Steampunk, 
-Typography, Watercolor, Fighting Game, GTA, 
-Super Mario, Minecraft, Pokémon, Retro Arcade, 
-Retro Game, RPG Fantasy Game, Strategy Game, 
-Street Fighter, Legend of Zelda, Architectural, Disco, 
-Fairy Tale, Gothic, Minimalist, Monochrome, 
-Nautical, Space, Techwear Fashion, Zentangle, 
-Flat Papercut, Kirigami, Paper Quilling, Papercut Collage, 
-Papercut Shadow Box, Stacked Papercut, Thick Layered Papercut, 
-Alien, Film Noir, HDR, Long Exposure, Neon Noir, Silhouette, Tilt-Shift.
-
-## Motion Presets
+## **Motion Presets**
 - [Classic-Zoom-In](https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Classic-Zoom-In.mp4)
 - [Classic-Zoom-Out](https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Classic-Zoom-Out.mp4)
 - [Classic](https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Classic.mp4)
@@ -165,18 +163,19 @@ To access the Xtra motion presets type X into the motion preset box and a new li
 
 If you want to see examples of how the motion presets look you can use the discord search bar and type in the name of the preset you are looking for. 
 
-## Advanced Prompting Options
-### Using Negative Prompts
+## **Advanced Prompting Options**
+### **Using Negative Prompts**
 For more nuanced prompts, advanced users can employ negative prompts to guide AI generation. By appending --neg followed by your negative prompt, you can influence the direction or avoid specific themes within the output. 
 
 Example: Cats eating sushi --neg dogs, cows, sheep
-### Prompt Length and Discord Bot Limitations
+
+### **Prompt Length and Discord Bot Limitations**
 When crafting prompts for Discord bot-generated animations, it's crucial to be mindful of the prompt's length. The Discord bot has a maximum prompt length limitation. Exceeding this limit may result in the failure of the generation process. Shorter, focused prompts are advisable for smoother and more successful bot-generated animations.
 
-
-### Prompt Weights for Emphasis
+### **Prompt Weights for Emphasis**
 Refine specific words or phrases within the prompt using parentheses. Elevate importance through extra parentheses, like (word) for marginal emphasis and ((word)) for extra emphasis.
-### Manipulating Weight Values
+
+### **Manipulating Weight Values**
 
 Adjust emphasis by applying weight values within the parentheses. 
 For instance:
