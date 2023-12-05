@@ -88,7 +88,7 @@ By offering a detailed overview of the animation's progression and completion, i
 </div>
 
 ## **Prompt Styles**
-The available prompt styles are divided into two categories for convenient selection. Visible styles will appear in the discord bot dorp down. Hidden styles will appear as you start typing. Here's the full list of styles:
+The available prompt styles are divided into two categories for convenient selection. Visible styles will appear in the discord bot drop down. Hidden styles will appear as you start typing. Here's the full list of styles:
 
 | Styles | Hidden Styles | Hidden Styles Cont. | Hidden Styles Cont. 
 |--------|--------|--------|--------|
