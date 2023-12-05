@@ -5,22 +5,45 @@ categories: [deforum, discord bot, user guide]
 tags: [deforum,animation,bot,guide]
 ---
 
-We're excited to have you on board to explore and experiment with the capabilities of our AI-driven animation bot.
+Welcome to the Deforum Wiki! 
 
-> Anyone found to be intentionally creating NSFW content will be removed from the beta test and server. 
+We're excited to have you on board to explore and experiment with the capabilities of Deforum. This post will explain how to use our new Discord bot 🤖, a straightforward and user-friendly introduction to Deforum.
+
+> Anyone found to be intentionally creating NSFW content will be removed from the discord server. 
 {: .prompt-danger }
+
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; overflow: hidden; border-radius: 10px;">
+  <video 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 10px;"
+    src="https://deforum-wiki.s3.us-east-2.amazonaws.com/discord-bot/Bot_User_Example_2.mp4" 
+    title="bot-demo" 
+    frameborder="0"
+    autoplay 
+    loop 
+    muted 
+    playsinline 
+    allowfullscreen>
+  </video>
+</div>
 
 ## Getting Started
 
 To initiate the AI animation process, use the command `/animate`. After adding your prompt, use the `⇥` (tab) key to navigate to the next box, where a menu will automatically appear. Once you select an option from the menu, the cursor will advance to the next box for your convenience.
+
+<div style="width: 100%; overflow: hidden; border-radius: 10px;">
+  <img
+    style="width: 100%; height: auto; border-radius: 10px;"
+    src="https://deforum-wiki.s3.us-east-2.amazonaws.com/discord-bot/bot_command.png"
+    alt="Your Image Description"
+  >
+</div>
 
 ## Navigation Instructions
 `/animate` Type this command in the Discord chat to start the animation process.
 
 `prompt` Enter the text or phrase you wish to animate.
 
-`prompt_style` Use the Tab key to navigate to this box after entering your prompt. A menu will appear automatically to choose the prompt style.
-(add a short explanation of prompt styles)
+`prompt_style` Use the Tab key to navigate to this box after entering your prompt. A menu will appear automatically to choose the prompt style. Prompt styles will add keywords to your prompt changing the artstyle.
 
 `motion_preset` After selecting the prompt style, the cursor will advance to this box, where a new menu will automatically show up for motion preset selection.
 
@@ -28,12 +51,20 @@ To initiate the AI animation process, use the command `/animate`. After adding y
 
 This sequence allows precise customization of your AI-generated animations by navigating through each stage seamlessly. The bot's functionality is optimized for creating AI-powered animations based on text prompts. Experiment with different combinations of prompts, styles, motion presets, and aspect ratios for unique animations.
 
+
+## Confirmation Message
+After submitting your prompt, the bot sends a confirmation message acknowledging the reception of your animation request. A second message will be sent to your DMs when the animation process begins and you’ll see a 'Preview' button appear.
+
+<div style="width: 100%; overflow: hidden; border-radius: 10px;">
+  <img
+    style="width: 100%; height: auto; border-radius: 10px;"
+    src="https://deforum-wiki.s3.us-east-2.amazonaws.com/discord-bot/bot-dm.png"
+    alt="Your Image Description"
+  >
+</div>
 ## Web App
 
-After submitting your prompt, the bot sends a confirmation message acknowledging the reception of your animation request. A second message will be sent to your DMs when the animation process begins and you’ll see a 'Preview' button appear. Clicking this button redirects you to our dedicated web app designed for a comprehensive overview of the animation's development. The final video will be posted to the discord channel. 
-
-> Make sure you have your discord privacy settings set to allow messages from this server.
-{: .prompt-info }
+Clicking The prieview button redirects you to our dedicated web app designed for a comprehensive overview of the animation's development. The final video will be posted to the discord channel. 
 
 **Progress Overview:** The web app provides an overview of the video's progress, detailing all generation settings. This includes the total wait time, generation time, chosen prompt, prompt style, and selected motion preset.
 
