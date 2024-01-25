@@ -21,7 +21,7 @@ Deforum collects the information you provide while interacting with our services
 
 ### How long is personal data stored?
 
-We retain your information as long as it is necessary for providing services and for other legitimate purposes such as service maintenance, account management, and objectives outlined in our [Privacy Policy](#). This is also subject to legal requirements.
+We retain your information as long as it is necessary for providing services and for other legitimate purposes such as service maintenance, account management, and objectives outlined in our [Privacy Policy](https://deforum.art/privacy.html). This is also subject to legal requirements.
 
 ### Where is the personal data stored?
 
@@ -58,4 +58,4 @@ By using our Services, you grant Deforum:
 
 This license continues even after any termination of this Agreement.
 
-For more detailed information, please refer to our [Terms of Service](#).
+For more detailed information, please refer to our [Terms of Service](https://deforum.art/terms.html).
