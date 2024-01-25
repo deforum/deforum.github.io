@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-gemspec
+gem "jekyll-theme-chirpy", "~> 6.4", ">= 6.4.2"
 
 group :test do
   gem "html-proofer", "~> 4.4"
