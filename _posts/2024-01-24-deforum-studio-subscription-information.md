@@ -49,6 +49,8 @@ Change your mind? **Upgrade or downgrade** your plan at any time. Immediate upgr
 
 You can cancel your subscription at any moment [here](https://app.deforum.art/settings). Cancellations are effective at the end of the current billing cycle, and **your unused credits will roll over**.
 
+![Cancellation Image](../assets/img/LSCancel.png)
+
 ## **Refunds**
 
 Due to the nature of our business, refunds are not available at this time. For more information, reach out to [help@deforum.art](mailto:help@deforum.art).
