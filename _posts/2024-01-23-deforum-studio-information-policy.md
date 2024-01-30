@@ -5,6 +5,8 @@ categories: [privacy, faq]
 tags: [deforum, data protection, user information]
 ---
 
+## **Learn about what information Deforum collects from users**
+
 # Information Policy
 
 ### What information does Deforum collect from users?
