@@ -1,5 +1,5 @@
 ---
-title: Deforum Discord Bot Guide
+title: "Deforum Studio: Discord Bot Guide"
 date: 2024-01-29 12:14:27 -500
 categories: [deforum, discord bot, user guide]
 tags: [deforum,animation,bot,guide]

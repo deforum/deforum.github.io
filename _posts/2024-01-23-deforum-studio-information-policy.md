@@ -1,5 +1,5 @@
 ---
-title: "Information Policy - Deforum Studio"
+title: "Deforum Studio: Information Policy"
 date: 2024-01-23
 categories: [privacy, faq]
 tags: [deforum, data protection, user information]

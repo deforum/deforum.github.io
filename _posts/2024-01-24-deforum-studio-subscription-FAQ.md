@@ -1,5 +1,5 @@
 ---
-title: "Deforum Studio Subscription FAQ"
+title: "Deforum Studio: Subscription FAQ"
 date: 2024-01-24
 categories: [subscriptions, membership, plans]
 tags: [deforum, billing, subscription]

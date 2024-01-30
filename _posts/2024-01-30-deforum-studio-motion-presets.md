@@ -1,5 +1,5 @@
 ---
-title: Deforum Studio Motion Presets
+title: "Deforum Studio: Motion Presets"
 date: 2024-01-30 00:00:00 -500
 categories: [deforum, discord bot, user guide, presets]
 tags: [deforum,animation,bot,guide,presets]
