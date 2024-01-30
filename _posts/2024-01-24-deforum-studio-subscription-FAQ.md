@@ -1,9 +1,11 @@
 ---
-title: "Deforum Studio Subscription Plans"
+title: "Deforum Studio Subscription FAQ"
 date: 2024-01-24
 categories: [subscriptions, membership, plans]
 tags: [deforum, billing, subscription]
 ---
+
+## **Learn about the Deforum Studio subscriptions plans, and how to modify your subscription.
 
 # **Subscription Plans**
 
