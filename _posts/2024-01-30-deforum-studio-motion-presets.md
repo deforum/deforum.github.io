@@ -1,9 +1,10 @@
 ---
-title: Deforum Discord Bot Motion Presets
-date: 2023-12-08 00:00:00 -500
+title: Deforum Studio Motion Presets
+date: 2024-01-30 00:00:00 -500
 categories: [deforum, discord bot, user guide, presets]
 tags: [deforum,animation,bot,guide,presets]
 ---
+# **Explore the Deforum Studio Presets**
 
 ## **Motion Presets**
 To access the Xtra motion presets type X into the motion preset box and a new list will appear to get back to the original list delete the X. 
