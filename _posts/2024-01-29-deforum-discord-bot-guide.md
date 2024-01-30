@@ -1,17 +1,15 @@
 ---
-title: Deforum Discord Bot User Guide
-date: 2023-12-04 12:14:27 -500
+title: Deforum Discord Bot Guide
+date: 2024-01-29 12:14:27 -500
 categories: [deforum, discord bot, user guide]
 tags: [deforum,animation,bot,guide]
 ---
 
-## **Welcome to the Deforum Wiki!**
-
-We're excited to have you on board to explore the capabilities of Deforum. This post will explain how to use our new Discord bot 🤖, a straightforward and user-friendly introduction to Deforum.
+## **Learn how to use our new Discord bot 🤖, a straightforward and user-friendly introduction to Deforum.**
 
 ## **Getting Started**
 
-To initiate the AI animation process, use the command `/animate`. After adding your prompt, use the `⇥` (tab) key to navigate to the next box, where a menu will automatically appear. Once you select an option from the menu, the cursor will advance to the next box for your convenience.
+We're excited to have you on board to explore the capabilities of Deforum. To initiate the AI animation process, use the command `/animate`. After adding your prompt, use the `⇥` (tab) key to navigate to the next box, where a menu will automatically appear. Once you select an option from the menu, the cursor will advance to the next box for your convenience.
 
 <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; overflow: hidden; border-radius: 10px;">
   <video 
