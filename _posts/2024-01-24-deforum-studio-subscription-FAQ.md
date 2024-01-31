@@ -5,7 +5,7 @@ categories: [subscriptions, membership, plans]
 tags: [deforum, billing, subscription]
 ---
 
-## **Learn about the Deforum Studio subscriptions plans, and how to modify your subscription.
+# **Learn about the Deforum Studio subscriptions plans, and how to modify your subscription.**
 
 # **Subscription Plans**
 
