@@ -4,12 +4,13 @@ date: 2024-01-30 00:00:00 -500
 categories: [deforum, discord bot, user guide, presets]
 tags: [deforum,animation,bot,guide,presets]
 ---
-# **Explore the Deforum Studio Presets**
+# **Deforum Studio Presets Overview**
 
 ## **Motion Presets**
-To access the Xtra motion presets type X into the motion preset box and a new list will appear to get back to the original list delete the X. 
+Deforum Studio offers a range of motion presets, meticulously developed to enable you to create high-quality animations effortlessly. Below, you'll find a selection of video examples showcasing the capabilities of these presets. Each one is designed to deliver impressive results from the start.
 
-If you want to see examples of how the motion presets look you can use the discord search bar and type in the name of the preset you are looking for. 
+To explore the extended range of motion presets in the Discord bot, simply enter 'X' in the motion preset field within the Discord bot interface. This action unveils additional presets. To revert to the standard preset list, remove the 'X'.
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -56,6 +57,62 @@ If you want to see examples of how the motion presets look you can use the disco
 <body>
     <div class="video-grid">
        <!-- List of videos -->
+               <div class="video-item">
+            <iframe src="https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Classic-3D-Cam-NEW.mp4" frameborder="0" allowfullscreen></iframe>
+            <div class="video-title">X-Classic-3D-Cam <span class="new-tag">NEW!</span></div>
+        </div>
+        <div class="video-item">
+            <iframe src="https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Classic-Stop-Motion-2-NEW.mp4" frameborder="0" allowfullscreen></iframe>
+            <div class="video-title">X-Classic-Stop-Motion-2 <span class="new-tag">NEW!</span></div>
+        </div>
+        <div class="video-item">
+            <iframe src="https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Classic-Stop-Motion-NEW.mp4" frameborder="0" allowfullscreen></iframe>
+            <div class="video-title">X-Classic-Stop-Motion <span class="new-tag">NEW!</span></div>
+        </div>
+        <div class="video-item">
+            <iframe src="https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Dolly-Zoom-Out-NEW.mp4" frameborder="0" allowfullscreen></iframe>
+            <div class="video-title">X-Dolly-Zoom-Out <span class="new-tag">NEW!</span></div>
+        </div>
+        <div class="video-item">
+            <iframe src="https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Elastic-Vision-New.mp4" frameborder="0" allowfullscreen></iframe>
+            <div class="video-title">X-Elastic-Vision <span class="new-tag">NEW!</span></div>
+        </div>
+        <div class="video-item">
+            <iframe src="https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Evolve-Spin-NEW.mp4" frameborder="0" allowfullscreen></iframe>
+            <div class="video-title">X-Move-Spin <span class="new-tag">NEW!</span></div>
+        </div>
+        <div class="video-item">
+            <iframe src="https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Evolve-Zoom-Slow-NEW..mp4" frameborder="0" allowfullscreen></iframe>
+            <div class="video-title">X-Evolve-Zoom-Slow <span class="new-tag">NEW!</span></div>
+        </div>
+        <div class="video-item">
+            <iframe src="https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Flashbacks-NEW.mp4" frameborder="0" allowfullscreen></iframe>
+            <div class="video-title">X-Flashbacks <span class="new-tag">NEW!</span></div>
+        </div>
+        <div class="video-item">
+            <iframe src="https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Fly-Through-Spin-NEW.mp4" frameborder="0" allowfullscreen></iframe>
+            <div class="video-title">X-Fly-Through-Spin <span class="new-tag">NEW!</span></div>
+        </div>
+        <div class="video-item">
+            <iframe src="https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Liquid-Flow-NEW.mp4" frameborder="0" allowfullscreen></iframe>
+            <div class="video-title">X-Liquid-Flow <span class="new-tag">NEW!</span></div>
+        </div>
+        <div class="video-item">
+            <iframe src="https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Portal-2-NEW.mp4" frameborder="0" allowfullscreen></iframe>
+            <div class="video-title">X-Portal-2 <span class="new-tag">NEW!</span></div>
+        </div>
+        <div class="video-item">
+            <iframe src="https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Spacewalk-NEW.mp4" frameborder="0" allowfullscreen></iframe>
+            <div class="video-title">X-Spacewalk <span class="new-tag">NEW!</span></div>
+        </div>
+        <div class="video-item">
+            <iframe src="https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Swipe-2-NEW.mp4" frameborder="0" allowfullscreen></iframe>
+            <div class="video-title">X-Swipe-Across <span class="new-tag">NEW!</span></div>
+        </div>
+        <div class="video-item">
+            <iframe src="https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/X-Grids.mp4" frameborder="0" allowfullscreen></iframe>
+            <div class="video-title">X-Grids <span class="new-tag">NEW!</span></div>
+        </div>
         <div class="video-item">
             <iframe src="https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Classic-Zoom-In.mp4" frameborder="0" allowfullscreen></iframe>
             <div class="video-title">Classic-Zoom-In</div>
@@ -79,7 +136,7 @@ If you want to see examples of how the motion presets look you can use the disco
         </div>
         <div class="video-item">
             <iframe src="https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Evolve-Glitch-2.mp4" frameborder="0" allowfullscreen></iframe>
-            <div class="video-title">Evolve-Glitch-2 <span class="new-tag">NEW!</span></div>
+            <div class="video-title">Evolve-Glitch-2 </div>
         </div>
         <!-- Continuation from previous videos... -->
         <div class="video-item">
@@ -88,15 +145,15 @@ If you want to see examples of how the motion presets look you can use the disco
         </div>
         <div class="video-item">
             <iframe src="https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Evolve-Pulse-2.mp4" frameborder="0" allowfullscreen></iframe>
-            <div class="video-title">Evolve-Pulse-2 <span class="new-tag">NEW!</span></div>
+            <div class="video-title">Evolve-Pulse-2 </div>
         </div>
         <div class="video-item">
             <iframe src="https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Evolve-Pulse-Glitch.mp4" frameborder="0" allowfullscreen></iframe>
-            <div class="video-title">Evolve-Pulse-Glitch <span class="new-tag">NEW!</span></div>
+            <div class="video-title">Evolve-Pulse-Glitch </div>
         </div>
         <div class="video-item">
             <iframe src="https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Evolve-Portal.mp4" frameborder="0" allowfullscreen></iframe>
-            <div class="video-title">Evolve-Portal <span class="new-tag">NEW!</span></div>
+            <div class="video-title">Evolve-Portal </div>
         </div>
         <div class="video-item">
             <iframe src="https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Evolve_Slow.mp4" frameborder="0" allowfullscreen></iframe>
@@ -104,7 +161,7 @@ If you want to see examples of how the motion presets look you can use the disco
         </div>
         <div class="video-item">
             <iframe src="https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Evolve-Slow-2.mp4" frameborder="0" allowfullscreen></iframe>
-            <div class="video-title">Evolve-Slow-2 <span class="new-tag">NEW!</span></div>
+            <div class="video-title">Evolve-Slow-2 </div>
         </div>
         <div class="video-item">
             <iframe src="https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Fly-Through.mp4" frameborder="0" allowfullscreen></iframe>
@@ -112,7 +169,7 @@ If you want to see examples of how the motion presets look you can use the disco
         </div>
         <div class="video-item">
             <iframe src="https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Fly-Through-2.mp4" frameborder="0" allowfullscreen></iframe>
-            <div class="video-title">Fly-Through-2 <span class="new-tag">NEW!</span></div>
+            <div class="video-title">Fly-Through-2 </div>
         </div>
         <div class="video-item">
             <iframe src="https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Look-Around.mp4" frameborder="0" allowfullscreen></iframe>
@@ -124,7 +181,7 @@ If you want to see examples of how the motion presets look you can use the disco
         </div>
         <div class="video-item">
             <iframe src="https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Move-Float.mp4" frameborder="0" allowfullscreen></iframe>
-            <div class="video-title">Move-Float <span class="new-tag">NEW!</span></div>
+            <div class="video-title">Move-Float </div>
         </div>
         <div class="video-item">
             <iframe src="https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Move-In-Out.mp4" frameborder="0" allowfullscreen></iframe>
@@ -136,11 +193,11 @@ If you want to see examples of how the motion presets look you can use the disco
         </div>
         <div class="video-item">
             <iframe src="https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Move-Warp-2.mp4" frameborder="0" allowfullscreen></iframe>
-            <div class="video-title">Move-Warp-2 <span class="new-tag">NEW!</span></div>
+            <div class="video-title">Move-Warp-2 </div>
         </div>
         <div class="video-item">
             <iframe src="https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Quick-Change.mp4" frameborder="0" allowfullscreen></iframe>
-            <div class="video-title">Quick-Change <span class="new-tag">NEW!</span></div>
+            <div class="video-title">Quick-Change </div>
         </div>
         <div class="video-item">
             <iframe src="https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Revolve.mp4" frameborder="0" allowfullscreen></iframe>
@@ -152,11 +209,11 @@ If you want to see examples of how the motion presets look you can use the disco
         </div>
         <div class="video-item">
             <iframe src="https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Scene-Change-2.mp4" frameborder="0" allowfullscreen></iframe>
-            <div class="video-title">Scene-Change-2 <span class="new-tag">NEW!</span></div>
+            <div class="video-title">Scene-Change-2 </div>
         </div>
         <div class="video-item">
             <iframe src="https://deforum-wiki.s3.us-east-2.amazonaws.com/preset-examples/Swipe-Down.mp4" frameborder="0" allowfullscreen></iframe>
-            <div class="video-title">Swipe-Down <span class="new-tag">NEW!</span></div>
+            <div class="video-title">Swipe-Down </div>
         </div>
         <!-- Remaining videos will be added in a similar manner -->
         <!-- Continuing from the previous videos... -->
@@ -211,5 +268,3 @@ If you want to see examples of how the motion presets look you can use the disco
     </div>
 </body>
 </html>
-
-
