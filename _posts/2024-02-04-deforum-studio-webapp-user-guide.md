@@ -54,4 +54,4 @@ Deforum Studio is a user-friendly, easy-to-use web-based service that allows you
 
 Get creative with Deforum Studio! For further assistance or inquiries, feel free to reach out to an Admin. Thank you for choosing Deforum AI Animation Bot for your creative endeavors!
 
-**Note:** Anyone found to be intentionally creating NSFW content will be removed from the Discord server.
+**Note:** Anyone found to be intentionally creating NSFW content will be removed from the service.
