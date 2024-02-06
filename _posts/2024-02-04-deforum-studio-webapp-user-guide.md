@@ -1,5 +1,5 @@
 ---
-title: "Deforum Studio Web App Guide"
+title: "Deforum Studio: Web App Guide"
 date: 2024-02-04
 categories: [Web App, Deforum Studio]
 tags: [deforum, user guides]
