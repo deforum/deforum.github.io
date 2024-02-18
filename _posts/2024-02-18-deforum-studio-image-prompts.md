@@ -6,7 +6,7 @@ tags: [deforum,animation,web app,guide]
 ---
 A detailed guide for using Image Prompts.
 
-## **Image Prompts**
+# **Image Prompts**
 
 Unlock the potential of image prompts, a dynamic tool for infusing your animations with the composition and style of images.
 
